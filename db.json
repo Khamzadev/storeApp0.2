@@ -1,0 +1,264 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "title": "Men's Fashion T-Shirt",
+      "price": 139,
+      "img": [
+        "./photos/f3.jpeg",
+        "./photos/f2.jpeg",
+        "./photos/f1.jpeg",
+        "./photos/f4.jpeg"
+      ],
+      "category": "T-Shirts",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Madium",
+        "Large",
+        "X-Large"
+      ],
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt quos laudantium quae a nulla libero iure voluptate officia vero quaerat mollitia alias officiis labore, consectetur, rem delectus voluptas corporis corrupti?"
+    },
+    {
+      "id": 4,
+      "title": "Men's Fashion T-Shirt",
+      "price": 139,
+      "img": [
+        "./photos/f4.jpeg",
+        "./photos/f2.jpeg",
+        "./photos/f3.jpeg",
+        "./photos/f1.jpeg"
+      ],
+      "category": "T-Shirts",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Madium",
+        "Large",
+        "X-Large"
+      ],
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt quos laudantium quae a nulla libero iure voluptate officia vero quaerat mollitia alias officiis labore, consectetur, rem delectus voluptas corporis corrupti?"
+    },
+    {
+      "id": 5,
+      "title": "Men's Fashion T-Shirt",
+      "price": 139,
+      "img": [
+        "./photos/f5.jpeg",
+        "./photos/f2.jpeg",
+        "./photos/f3.jpeg",
+        "./photos/f4.jpeg"
+      ],
+      "category": "T-Shirts",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Madium",
+        "Large",
+        "X-Large"
+      ],
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt quos laudantium quae a nulla libero iure voluptate officia vero quaerat mollitia alias officiis labore, consectetur, rem delectus voluptas corporis corrupti?"
+    },
+    {
+      "id": 6,
+      "title": "Men's Fashion T-Shirt",
+      "price": 139,
+      "img": [
+        "./photos/f6.jpeg",
+        "./photos/f2.jpeg",
+        "./photos/f3.jpeg",
+        "./photos/f4.jpeg"
+      ],
+      "category": "T-Shirts",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Madium",
+        "Large",
+        "X-Large"
+      ],
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt quos laudantium quae a nulla libero iure voluptate officia vero quaerat mollitia alias officiis labore, consectetur, rem delectus voluptas corporis corrupti?"
+    },
+    {
+      "id": 7,
+      "title": "Men's Fashion T-Shirt",
+      "price": 139,
+      "img": [
+        "./photos/f7.jpeg",
+        "./photos/f2.jpeg",
+        "./photos/f3.jpeg",
+        "./photos/f4.jpeg"
+      ],
+      "category": "T-Shirts",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Madium",
+        "Large",
+        "X-Large"
+      ],
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt quos laudantium quae a nulla libero iure voluptate officia vero quaerat mollitia alias officiis labore, consectetur, rem delectus voluptas corporis corrupti?"
+    },
+    {
+      "id": 8,
+      "title": "Men's Fashion T-Shirt",
+      "price": 139,
+      "img": [
+        "./photos/f8.jpeg",
+        "./photos/f2.jpeg",
+        "./photos/f3.jpeg",
+        "./photos/f4.jpeg"
+      ],
+      "category": "T-Shirts",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Madium",
+        "Large",
+        "X-Large"
+      ],
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt quos laudantium quae a nulla libero iure voluptate officia vero quaerat mollitia alias officiis labore, consectetur, rem delectus voluptas corporis corrupti?"
+    },
+    {
+      "id": 9,
+      "title": "Men's Fashion T-Shirt",
+      "price": 139,
+      "img": [
+        "./photos/n1.jpeg",
+        "./photos/f2.jpeg",
+        "./photos/f3.jpeg",
+        "./photos/f4.jpeg"
+      ],
+      "category": "T-Shirts",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Madium",
+        "Large",
+        "X-Large"
+      ],
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt quos laudantium quae a nulla libero iure voluptate officia vero quaerat mollitia alias officiis labore, consectetur, rem delectus voluptas corporis corrupti?"
+    },
+    {
+      "id": 10,
+      "title": "Men's Fashion T-Shirt",
+      "price": 139,
+      "img": [
+        "./photos/n2.jpeg",
+        "./photos/f2.jpeg",
+        "./photos/f3.jpeg",
+        "./photos/f4.jpeg"
+      ],
+      "category": "T-Shirts",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Madium",
+        "Large",
+        "X-Large"
+      ],
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt quos laudantium quae a nulla libero iure voluptate officia vero quaerat mollitia alias officiis labore, consectetur, rem delectus voluptas corporis corrupti?"
+    },
+    {
+      "id": 11,
+      "title": "Men's Fashion T-Shirt",
+      "price": 139,
+      "img": [
+        "./photos/n6.jpeg",
+        "./photos/f2.jpeg",
+        "./photos/f3.jpeg",
+        "./photos/f4.jpeg"
+      ],
+      "category": "T-Shirts",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Madium",
+        "Large",
+        "X-Large"
+      ],
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt quos laudantium quae a nulla libero iure voluptate officia vero quaerat mollitia alias officiis labore, consectetur, rem delectus voluptas corporis corrupti?"
+    },
+    {
+      "id": 12,
+      "title": "Men's Fashion T-Shirt",
+      "price": 139,
+      "img": [
+        "./photos/n4.jpeg",
+        "./photos/f2.jpeg",
+        "./photos/f3.jpeg",
+        "./photos/f4.jpeg"
+      ],
+      "category": "T-Shirts",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Madium",
+        "Large",
+        "X-Large"
+      ],
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt quos laudantium quae a nulla libero iure voluptate officia vero quaerat mollitia alias officiis labore, consectetur, rem delectus voluptas corporis corrupti?"
+    },
+    {
+      "id": 13,
+      "title": "Men's Fashion T-Shirt",
+      "price": 139,
+      "img": [
+        "./photos/f3.jpeg",
+        "./photos/f4.jpeg",
+        "./photos/f5.jpeg",
+        "./photos/f6.jpeg"
+      ],
+      "category": "T-Shirts",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Madium",
+        "Large",
+        "X-Large"
+      ],
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt quos laudantium quae a nulla libero iure voluptate officia vero quaerat mollitia alias officiis labore, consectetur, rem delectus voluptas corporis corrupti?"
+    },
+    {
+      "id": 14,
+      "title": "Men's Fashion T-Shirt",
+      "price": 139,
+      "img": [
+        "./photos/f5.jpeg",
+        "./photos/f1.jpeg",
+        "./photos/f4.jpeg",
+        "./photos/n8.jpeg"
+      ],
+      "category": "T-Shirts",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Madium",
+        "Large",
+        "X-Large"
+      ],
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt quos laudantium quae a nulla libero iure voluptate officia vero quaerat mollitia alias officiis labore, consectetur, rem delectus voluptas corporis corrupti?"
+    }
+  ],
+  "users": [
+    {
+      "email": "magezamuslim40@gmail.com",
+      "password": "2a10vNcVI3Y6OkReD..zGRQx0exHDiCBj8heCVb605BmR4Qt3Y1T2fvhy",
+      "login": "Muslim0270705",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$hq6b9o4zYEhN.N4BQBr2t.1E92vnA2L7JctrGLA.dWkRIe.vOQT96",
+      "login": "admin",
+      "id": 2
+    },
+    {
+      "email": "admin2@gmail.com",
+      "password": "$2a$10$OSQt/TnHPnCTBVdagnlTmOIEUyYsCIfOkm/dEq57HhIDeWv/JpZ2O",
+      "login": "admin",
+      "id": 3
+    }
+  ]
+}
